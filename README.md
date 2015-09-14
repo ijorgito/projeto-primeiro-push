@@ -14,20 +14,15 @@
 
 - Clone o repositório remoto no PC:
 *$ git clone git@github.com:ijorgito/projeto-primeiro-push*
-
 - Crie um arquivo local com algum conteúdo: 
 *$ touch primeiro-projeto-push.php*
-
-- Adicione o arquivo para ser comitado 
+- Adicione o arquivo para ser comitado: 
 *$ git add .*
-
 - Comita arquivo alterado:
 *$ git commit -m "Comitando Projeto Primeiro Push"*
-
 - Envia para repositório remoto branch master:
 *$ git push origin master*
-
-- Por fim, verifica se todos os arquivos estão sincronizados
+- Por fim, verifica se todos os arquivos estão sincronizados:
 *$ git pull*
 
 ;)
