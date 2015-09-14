@@ -12,17 +12,27 @@
 6. Marcar a opção Initialize this repository with a README.
 
 **No computador local:**
-1. Clone o repositório remoto no PC: 
+
+1. Clone o repositório remoto no PC:
+
 *$ git clone git@github.com:ijorgito/projeto-primeiro-push*
 
 2. Crie um arquivo local com algum conteúdo: 
+
 *$ touch primeiro-projeto-push.php*
 
 3. Adicione o arquivo para ser comitado 
+
 *$ git add .*
 
 4. Comita arquivo alterado:
+
 *$ git commit -m "Comitando Projeto Primeiro Push"*
+
+5. Envia para repositório remoto branch master:
+
+*$ git push origin master*
+
 
 
  
